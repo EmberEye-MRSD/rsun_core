@@ -1,2 +1,2 @@
 # rsun_core
-Metapakage to hold all the submodules for the autonomy stack
+Metapakage to hold all the submodules for the autonomy stack. Currently not implemented
